@@ -9,4 +9,4 @@ Se anexará dentro del documento el hipervínculo al árbol de Backtraking, para
 
 El problema de la varilla consta de una varilla de n centímetros de largo y una variedad de precios arbitrarios (no infiere que porque tenga más tamaño deba tener mayor costo) de todas las piezas de tamaño menores que n, siendo n valores enteros mayores a 1. El problema consiste en determinar el mayor valor que se puede obtener cortando la varilla y vendiendo las piezas. 
 
-<span style="color: red">Ver documento Documento para vas informacion</span>
+<span>🔴IMPORTANT: Ver documento Rod Cutting TPI para vas informacion 🔴❗</span>
