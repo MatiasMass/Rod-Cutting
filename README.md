@@ -5,4 +5,8 @@ En primer lugar se mostrará una presentación del escenario, su metodología, c
 Cabe destacar que el lenguaje de programación que utilizamos en cada caso es Python.
 Se anexará dentro del documento el hipervínculo al árbol de Backtraking, para una mejor visualización del mismo.
 
-<p style="color: red">Ver documento Documento para vas informacion</p>
+## Rod-Cutting: problema de la Varilla
+
+El problema de la varilla consta de una varilla de n centímetros de largo y una variedad de precios arbitrarios (no infiere que porque tenga más tamaño deba tener mayor costo) de todas las piezas de tamaño menores que n, siendo n valores enteros mayores a 1. El problema consiste en determinar el mayor valor que se puede obtener cortando la varilla y vendiendo las piezas. 
+
+<span style="color: red">Ver documento Documento para vas informacion</span>
